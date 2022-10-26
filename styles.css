@@ -1,0 +1,78 @@
+.craft {
+  max-width: 1900px;
+  max-height: 800px;
+}
+.craft img {
+  width: 100%;
+  height: 250px;
+}
+
+.craft h1 {
+  position: absolute;
+  top: 0.1%;
+  font-family: Helvetica;
+  color: khaki;
+  font-size: 90px;
+  left: 25%;
+  font-weight: bold;
+  clear: both;
+}
+.craft span {
+  position: absolute;
+  left: 30%;
+}
+
+.brushes {
+  display: block;
+  margin-top: 50px;
+}
+.brushes h2 {
+  background-color: greenyellow;
+  font-size: 40px;
+}
+.brushes h6 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.brushes span {
+  color: blue;
+  margin: 10px;
+}
+.brushes p {
+    margin-top: -40px;
+}
+
+.frames {
+  display: block;
+}
+
+.frames h2 {
+  background-color: rosybrown;
+  font-size: 40px;
+}
+
+.frames h6{
+    font-size: 22px;
+    font-weight:bold;
+    margin-top: 20px;
+}
+.frames p{
+    margin-top: -40px;
+}
+
+.paint{
+    display: block;
+}
+.paint h2{
+    background-color: blue;
+    font-size: 40px;
+}
+.paint h6{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.paint p{
+    margin-top: -40px;
+}
